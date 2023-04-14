@@ -1,0 +1,164 @@
+id,name
+9,Clothing Sales
+11,Land Rental
+12,Traveling Sales
+13,Veterinary Sales
+14,Bookstore
+15,Grocery Store
+17,Musical Performance
+18,Water Distribution
+19,Cosmetics Sales
+21,Bicycle Repair
+23,Shoe Sales
+24,Construction Supplies
+25,Cafe
+26,Plastics Sales
+27,Bakery
+28,Barber Shop
+29,Home Products Sales
+31,Farming
+32,Tailoring
+33,Furniture Making
+34,Butcher Shop
+35,Cheese Making
+37,Motorcycle Transport
+39,Construction
+40,Phone Use Sales
+41,Sporting Good Sales
+43,Carpentry
+45,Catering
+46,Restaurant
+47,Sewing
+49,Beauty Salon
+51,Electronics Sales
+52,Metal Shop
+54,Vehicle Repairs
+56,Cattle
+57,General Store
+59,Taxi
+60,Charcoal Sales
+61,Dairy
+62,Photography
+63,Fish Selling
+65,Pharmacy
+66,Printing
+67,Food Production/Sales
+68,Farm Supplies
+70,Medical Clinic
+72,Crafts
+73,Livestock
+75,Patchwork
+76,Bicycle Sales
+78,Musical Instruments
+79,Bricks
+80,Office Supplies
+81,Hardware
+84,Used Clothing
+85,Laundry
+86,Textiles
+87,Food Market
+88,Retail
+89,Fishing
+91,Milk Sales
+92,Auto Repair
+94,Pub
+95,Machine Shop
+96,Phone Accessories
+97,Cement
+98,Decorations Sales
+99,Pigs
+100,Phone Repair
+101,Cobbler
+102,Poultry
+103,Paper Sales
+104,Electronics Repair
+105,Air Conditioning
+107,Transportation
+108,Blacksmith
+109,Perfumes
+110,Animal Sales
+111,Computers
+112,Cereals
+114,Secretarial Services
+115,Dental
+116,Electrician
+117,Mobile Phones
+119,Quarrying
+120,Agriculture
+121,Services
+123,Health
+124,Manufacturing
+125,Arts
+127,Party Supplies
+128,Timber Sales
+129,Child Care
+130,Fuel/Firewood
+131,Electrical Goods
+132,Religious Articles
+133,Tourism
+134,Personal Housing Expenses
+135,Motorcycle Repair
+137,Utilities
+138,Recycling
+140,Souvenir Sales
+141,Spare Parts
+142,Personal Products Sales
+143,Natural Medicines
+144,Goods Distribution
+145,Weaving
+146,Hotel
+147,Well digging
+149,Embroidery
+151,Music Discs & Tapes
+156,Rickshaw
+157,Call Center
+158,Primary/secondary school costs
+159,Bookbinding
+161,Movie Tapes & DVDs
+162,Liquor Store / Off-License
+163,Waste Management
+164,Film
+165,Knitting
+167,Upholstery
+169,Fruits & Vegetables
+170,Jewelry
+171,Cloth & Dressmaking Supplies
+172,Internet Cafe
+174,Entertainment
+175,Games
+176,Education provider
+177,Flowers
+180,Wholesale
+181,Food
+183,Clothing
+184,Machinery Rental
+185,Food Stall
+186,Balut-Making
+192,Personal Medical Expenses
+193,Property
+194,Consumer Goods
+195,Home Appliances
+196,Vehicle
+197,Wedding Expenses
+199,Used Shoes
+200,Higher education costs
+201,Renewable Energy Products
+202,Recycled Materials
+203,Home Energy
+204,Cleaning Services
+206,Communications
+207,Adult Care
+208,Energy
+209,Florist
+210,Landscaping / Gardening
+216,Technology
+217,Beekeeping
+218,Aquaculture
+219,Computer
+220,Beverages
+221,Personal Care Products
+222,Funerals
+223,Celebrations
+224,Personal Expenses
+225,Mobile Transactions
+226,Event Planning
